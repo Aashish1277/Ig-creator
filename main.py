@@ -1,3 +1,259 @@
-# Obfuscated by the Botpalys encoder
-#Time: Wed Feb 11 20:33:23 2026
-_ = lambda __ : __import__('base64').urlsafe_b64decode(__[::-1]);exec((_)(b'=kCKn5Wasx2bw9Ve0lmbpZmbp5CdvJGIgACIKkiIu4iLt92YuIXZk5WZSBibvByZulGdyFGdzBycpBCdvJkIoQnbpJHcgACIgogOi81XulWYt91XiASP9AyXfVWbh52XfBiZppgCpkCKlZ3btVmUkJXYvJWeltUesBXZS5yclBXe01Dc1tmch12X5xGclJHIsIiLuJXd0Vmcg8GdgUGdhVmcj9CIlNXVgESZ5JGZv92RiACLkl2X0FGajhSZnF2czVWbfRmblNnL09mYgACIgACIgAiC6U2csVGIgACIKkSZnF2czVWbowWah1WZft2chBCIgACIgACIKoTZjl2boNGIulGIicVROJCImlGblBCIgAiCpc2ct91aj9WbowWah1WZfN3clN2byBHIgACIgACIgACIgAiCddCbpFWbldyWlRXY0NHI9ACd4VGduc2ct91aj9WbgACIgACIgACIgACIKkiIi0zZulmc0N3Xu92cqBCLdtVPz52bpRHcvBCLnQHelR3J9UGc5R3X05WZ052bjBCL0FGaj5SZnF2czVWb9QXYoNGIsUmbv5UPlRXYkBCLl52bO1jclNXdf12byZGIsATPkl2XldWYzNXZthSZnF2czVWTuMXZwlHdg0DInNXbft2Yv1GIgACIgACIgACIgAiC39GbmBSZoRHI0JXY0NXZyByb0BSZnF2czVWbgEGIrN2bNByIgACIgACIgACIgACIKkiI911JslWYtV2JbVGdhR3c7BikGKOIslWYtVGIl1WYzByZul2cVJiZgwCZp9Fdhh2YoU2ZhN3cl12Xk5WZz5CdvJGIgACIgACIgACIgAiC6UGdhR3cgYWagACIgACIgAiCpQWafRXYoNGK0V2ZuMXZ0FGdz9lclNXdg0DIlRXY0NHIgACIgACIgogOlNWavh2Yg4WagISRNF0UiAiZpBCIgAiC0hXZ05SZnF2czVWbg0DIlNWavh2YgACIgoAZp5Cdhh2YuU2ZhN3cl1GI9ACZp9Fdhh2YgACIgogOpU2ZhN3cl1GKlNWavh2YfVnbl12XlxGZuFGagYWZkpgCpU2Yp9Gaj9VduVWbfVGbk5WYoBCLnNXboIXZsRmbhh2XwVGdz9Fd4VmbfJXZ0NXanVmcuQ3biBCIgAiCpAXdrJXYt1Dc1tmch12X5xGclJHIsIyP0hXZuBybkByb0BSZrlGbgU3b5BCZsV3b3BCdhh2ViACLkl2X0FGajhSZnF2czVWbfRmblNnL09mYg0DInNXbgACIgoQKiQXa4VkIgwiIslWYtVGIXVkTggGdpdHIlRXYlJ3QiACLiwWah1WZgUUTBNFIoRXa3BSZ0FWZyNkIoQGZh5Cc1tmch1GIgACIKkSZ1JHV9Qmch9mY5V2afVWbpR3Xl52bgwSZ1JHV9Qmch9mY5V2afVmepNXZyhCc1tmch1EZyF2bilXZLlHbwVmUuMXZwlHdg0DIwV3ayFWbgACIgogOpQWafRXYoNGK15WZt9Fdz9Gcfd3boNHImVGZKoQKi0XKlhic0N3egojcvJncFBCjdKuImBCLkl2X0FGajhSZnF2czVWbfRmblNnL09mYgACIgACIgAiC6UGIzFGIu9Wa0BXZjhXRgQHclNGelBCIgAiCpcib39GZrJXYNdSPlR2bt9VZzJXYwBCLiAWfhRXYk9lcvJncltHYuxlOlNnbvB3clJHItFmcnFGdz5WSg4CZlxWahZGIu9Wa0FWZyNEIM2p4iYGIsQWafRXYoNGKldWYzNXZt9FZuV2cuQ3biBCIgACIgACIgACIgoQXwAzM6sFd4VGduU2cu9GczVmcg0DIhRXYk9lcvJnclBCIgACIgACIgACIgoQbhJ3ZhR3culEIt9mcmBicvJnclBCbhVHdjFGI39GaTByIgACIgACIgACIgACIKoTZzxWZgACIgACIgAiCpQWafRXYoNGK15WZt9Fdz9Gcfd3boNHIgACIgACIgACIgAiCpcib39GZrJXYNdSPlR2bt9VZzJXYwBCLnNXbfN3clN2Y1NHIsQWafRXYoNGKldWYzNXZt9FZuV2cuQ3biBCIgACIgACIgACIgoQKgACIgACIgACIgACIKICY9JHdz9VZpt2bvN2eg5GXqozcll2av92QqAiqN-J8iYGIgACIgACIgACIgACIgACIKIibc5GXg1HbpFWbFtHYgoiOslWYtVkKgc6kfCvImBCIgACIgACIgACIgACIgAiCi4GXg1HZy92dzNXYQtHYgoiOkJ3b3N3chBlKgEJlfCvImBCIgACIgACIgACIgACIgAiCi4GXg1XZtFmTyV2cVtHYgoiOl1WYuJXZzVlKgQakfCvImBCIgACIgACIgACIgACIgAiCi4GXuxlKhkHbsVnZzNXZjNWdTBCZlRXYlJ3QgQnb192YjFkKgkojfCvImBCIgACIgACIgACIgACIgAiCoASPgc2ct91czV2YjV3cgACIgACIgACIgACIKoQK0NWak9VZpt2bvNGKn5WayR3cfVWar92bj9FZlJXZkJ3bfRGbpVnYg0DIyR3cfVWar92bjBCIgACIgACIgACIgoQfgACIgACIgACIgACIKQWafJXZzVHI6cCZp9lclNXdfNHZnACIgACIgACIgACIgACIgAiCs0FMblyJ7cCK0lGbwNnLdFzWpcSPklGZfdWangCdpxGcz5SKncCIscSZpt2bvN2JoQXZn5ycyVGZhVGSgozJklGZfdWanACIgACIgACIgACIgACIgAiCs0FMblyJ7cCK0lGbwNnLdFzWpcSPklWbngCdpxGcz5SKncCIscSZpt2bvN2JoQXZn5ycyVGZhVGSgozJklWbnACIgACIgACIgACIgACIgAiCskyJuV2avRnZyN3Ytg3JoQXZn5ycyVGZhVGSgozJuV2avRnZyN3YnACIgACIgACIgACIgACIgAiCsQWau9WazNXZzBiOnQWau9WazNXZzdCIgACIgACIgACIgACIgACIKsHI9ACdjlGZfVWar92bjBCIgACIgACIgACIgogCpEDKwVWZsNnLl1Wa0BCIgACIgACIgACIgACIgAiCpIiLkVGZh9GbwVHIy8SfptHI0N3bQBShcKuImBCLkl2X0FGajhSZnF2czVWbfRmblNnL09mYgACIgACIgACIgACIgACIgACIgACIgACIKoTKi0XZtFmTyV2cVt3IgESehRGIlhGdgcmbpl3bq5WRiYWPu9Wa0BXYjBCLn1WafR3cvBHIsMnclRWYlhEIs42bpN3clNHK0N3bw9VbhJ3ZhR3cul2XkF2bsBXdgYWagACIgACIgACIgACIgACIgACIgAiC6cWbp9Fdz9GcgYWagACIgACIgACIgACIgACIgoQKo8GdvhGcf12bk5WYy9FdldGI9AyZtl2X0N3bwBCIgACIgACIgACIgACIgAiC6kyMgwSMoU2ZuFmcg4WagkGIy9mZgACIgACIgACIgACIK0SLtAyUUN1TQBiMgQUQPxEUVByTUVVQg0SLtAyIgACIgACIgACIgACIKACIgACIgACIgACIgoQKi4CdlNHIlJXd0NWawBSZslmZvJHUgUIniLCIsQWafRXYoNGKldWYzNXZt9FZuV2cuQ3biBCIgACIgACIgACIgACIgACIgACIKoTKwZGcgwycyVGZhVGSgwibvl2czV2coUmc1R3YpB3XlxWam9mcw9FZh9GbwVHImlGIgACIgACIgACIgACIgACIKoDcmBHImlGIgACIgACIgACIgAiCpgyb09Gaw9VbvRmbhJ3X0V2Zg0DIwZGcgACIgACIgACIgACIK0SLtACUGBFIEF0TMBVVg8EVVFEIt0SLgMCIgACIgACIgACIgAiCKkiIu4iLzR3cvBFIyACZuFGIlJXd0NWaQBSZslmZvJHUgcmbpRWYvxGc11yb0VXQgECZlRXYlJ3QgQnb192YjFEI4O5nwLCIsQWafRXYoNGKldWYzNXZt9FZuV2cuQ3biBCIgACIgACIgACIgogCpciblt2b0ZmczN2JoQXZn5ycll2av92YfdXZuBSPg01JuV2avRnZyN3Ytg3JbNnclRWYlhEIgACIgACIgACIgAiCi0HZp9lclNXd71DZp9lclNXdfNHZgsTfklmbvl2czV2c71DZp52bpN3clNHI70XKn4WZr9GdmJ3cjdCK0V2ZuMXZpt2bvN2X3Vmb71jblt2b0ZmczNGI70XKnQWak91ZpdCK0V2ZuMXZpt2bvN2X3Vmb71DZpR2XnlGI70XKnQWatdCK0V2ZuMXZpt2bvN2X3Vmb71DZp1mImBSPg01Jll2av92Yns1cyVGZhVGSgACIgACIgACIgACIKkCK0NWak9FdldmLzVWar92bj5ibvl2czV2cg0DIzVWar92bj91dl5GIgACIgACIgACIgAiCkF2bsBXdgEWakVWbgI3bmBycyVGZhVGagUGdhRGcVByIgACIgACIgACIgACIKACIgACIgACIgACIgoQKnQWafJXZzV3JoQXZn5SKo42bzpmLlNnbvB3clJHI9ACZp9lclNXdgACIgACIgACIgACIKkyJklmbvl2czV2cngCdldmLzVWar92bj5SZz52bwNXZyBSPgQWau9WazNXZzBCIgACIgACIgACIgogO0hXZ05SZz52bwNXZyBibpByJlVnc0pjIkVGdhVmcj9FduV3bjNWYicCImlGIgACIgACIgogCpACIgACIgACIKADN9QXdvVWbpRHIsEGdhRWPhRXYkBCLzJXZkFWZI1zcyVGZhVGagACIgACIgACIgACIKwyJvgXYqF2XlRXYlJ3YfJWZ39yc05WdvN2Yh9iYld3LxY3LpBXYv02bj5SbhJ3ZhR3culmL3d3dv8iOzBHd0h2JgACIgACIgACIgACIKgCdz9Gcu42bpN3clNHI9ASZz52bwNXZyBCIgACIgACIKkCKu9WazNXZT5yc0NXZ1FXZyBSPg42bpN3clNHIgACIgACIgogC9BCIgACIgACIKwSZk92QwVlbnl2UgozJlR2bj9Fc19lbnl2cfV2Yy9mZnACIgACIgACIgACIgoALnc3bydCI6cibvl2cyVmdfN3b0dCIgACIgACIgACIgAiCscSMnAiOnQWZsJWYuV2Xul2Zvx2XzNXZs1WYlN3JgACIgACIgACIgACIKwSXwsVKnszJoQXasB3cu0VMblyJ9QWatdCK0lGbwNnLddSZpt2bvN2JbNnclRWYlhEI6cCZp9FduVWasN2JgACIgACIgACIgACIKwSKxADMyACLwkTOxgCdulGZuFmcu02bk5WYyBiOnIXYll3JgACIgACIgACIgACIKwSK4IDIsEDK05Wak5WYy5SbvRmbhJHI6cSehR2JgACIgACIgACIgACIKwSKyEDIsEDK05Wak5WYy5SbvRmbhJHI6cCa052btdCIgACIgACIgACIgAiCsUWbh5GdzJXamBiOnUWbh52X0NncpZ2JgACIgACIgACIgACIKwSZtFmTyV2cVBiOnUWbh5mclNXdnACIgACIgACIgACIgoALslWYtVEI6cCbpFWbldCIgACIgACIgACIgAiCscSfkJ3b3N3chB1e60XKpgSZtlGduUWbpRHKk5WdvJ3e6AjOSV0UX9kUC9VTBJ1RBR1UOl0XEdFUjciZgozJkJ3b3N3chB3Xj5WZnACIgACIgACIgACIgoweg0DIhRXYkBCIgACIgACIKACIgACIgA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Gbs9mcgozJ4Fmah1SbhJ3ZhR3culWL4dCIgACIgACIgACIgAiCsQWawBXYgozJklWLwBXYtcWatg3JgACIgACIgACIgACIKwSXi4WZr9GdmJ3cjJyWyBiOn4WZr9GdmJ3cj1CenACIgACIgACIgACIgoAL05WZnF2XuFGI6cCduV2Zh1iclNXdnACIgACIgACIgACIgoALn8CbpFWbl9Cc152ZpN3LzRnb192YjF2Lt92Yu0WYydWY0Nnbp5yd3d3LvozcwRHdodCI6ciclJXZmVmcnACIgACIgACIgACIgoALn02bj5SbhJ3ZhR3culmL3d3dv8iOzBHd0h2JgozJul2ZpJ3bnACIgACIgACIgACIgoALn0XXiQWak91ZpJyWytXPklGZfdWagsTfdJCZp1mIbJ3e9QWatByO91lIuV2avRnZyN3Yislc71jblt2b0ZmczNGI7MTPyBHZnYGI6cSZpt2bvN2JgACIgACIgACIgACIKwyJkVGZvNmblxmc11Sby9mZtc3d31Cev42bpRXYjlGbwBXYnAiOnUGc5RXL05WZ052bjdCIgACIgACIgACIgAiCscyNuATPxtjblxCOuATPxtzUV1iblxSf5JHduV3bDtXL9V2ZhV3ZuFGT7diZgozJldWY1dmbhxWL0BXZjNWYnACIgACIgACIgACIgoALnoyLqcCI6cCdwV2YjF2JgACIgACIgACIgACIKwyJt92Yu0WYydWY0Nnbp5yd3d3JgozJ5RXay9Ga0VXYnACIgACIgACIgACIgoweg0DIzJXZkFWZoBCIgACIgACIK0FMblyJicCK0lGbwNnLdFzWpciI6ICazFGafRXdvxGbvJ3JoQXasB3cuQHelRnLwNXZyBSPgQXdvxGbvJHIgACIgACIgoQXwsVKnIyJoQXasB3cu0VMblyJiojIEl0XQBVQngCdpxGcz5Cd4VGduA3clJHI9ACZpBHchBCIgACIgACIKkCMz0Dd19WZtlGdgwSf05WZnF2XuFGI6cCduV2Zh1iclNXdnsXPzJXZkFWZoBCLn8SbvNmLtFmcnFGdz5Wauc3d39yL6MHc0RHangCdldmLzR3clVXclJHI9ACczVmcgACIgACIgAiCzVWar92bj5SKwMTP0V3bl1Wa0BCL9RnbldWYf5WYgozJ05WZnFWLyV2c1dye9MnclRWYlh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'))
+import os
+import random
+import string
+import time
+import names
+import requests
+import telebot
+from flask import Flask
+import threading
+from telebot import types
+import io
+
+# --- RENDER KEEP-ALIVE SERVER ---
+app = Flask(__name__)
+
+@app.route('/')
+def home():
+    return "Bot is running 24/7", 200
+
+def run_flask():
+    # Use port 10000 for Render
+    app.run(host='0.0.0.0', port=10000)
+
+flask_thread = threading.Thread(target=run_flask, daemon=True)
+flask_thread.start()
+
+# --- BOT INITIALIZATION ---
+# Replace with your actual token
+BOT_TOKEN = os.getenv('BOT_TOKEN', '8411999028:AAHI_lRK4GgKqRAZgFfqw4PCK2h5ajJ_CfY')
+bot = telebot.TeleBot(BOT_TOKEN)
+
+# User State Tracking (Stores Session and Data)
+user_states = {}
+
+# --- CORE DATA ---
+INDIAN_FIRST_NAMES = ["Aarav","Vihaan","Vivaan","Ananya","Diya","Advik","Kabir","Aaradhya","Reyansh","Sai","Arjun","Ishaan","Rudra","Sia","Myra","Ayaan","Shaurya","Anaya","Krisha","Kavya","Rohan","Shreya","Ishita","Yash","Priya","Riya","Rahul","Amit","Sumit","Pooja","Neha","Raj","Simran","Aditya","Krishna","Laksh","Tanvi","Ishika","Ved","Yuvraj","Anushka","Divya","Sanya","Ria","Jay","Virat","Ravindra","Sneha","Nikhil"]
+INDIAN_LAST_NAMES = ["Sharma","Verma","Gupta","Kumar","Singh","Patel","Reddy","Rao","Yadav","Jha","Malhotra","Mehta","Choudhary","Thakur","Mishra","Trivedi","Dwivedi","Pandey","Tiwari","Joshi","Desai","Shah","Nair","Menon","Iyer","Khan","Ansari","Sheikh"]
+TITLES = ["official","real","the","ig","india","indian","fan","lover","world","zone"]
+
+# --- HELPER FUNCTIONS ---
+
+def generate_indian_username():
+    first = random.choice(INDIAN_FIRST_NAMES).lower()
+    last = random.choice(INDIAN_LAST_NAMES).lower()
+    title = random.choice(TITLES).lower()
+    num = random.randint(10, 9999)
+    patterns = [
+        f"{first}{last}{num}", f"{first}_{last}{num}", f"{first}.{last}{num}",
+        f"{first}{num}{last}", f"{title}{first}{last}{num}", f"{first}{last}{title}{num}"
+    ]
+    return random.choice(patterns)
+
+def get_initial_session():
+    """Initializes a session and gets the required Instagram cookies/headers."""
+    session = requests.Session()
+    ua = f'Mozilla/5.0 (Linux; Android {random.randint(9,13)}; SM-G9{random.randint(100,999)}B) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36'
+    session.headers.update({'user-agent': ua})
+    
+    try:
+        # Initial hits to get cookies
+        session.get('https://www.instagram.com/accounts/emailsignup/', timeout=30)
+        resp = session.get('https://www.instagram.com/', timeout=30)
+        
+        # Extract App ID from page source
+        appid = resp.text.split('APP_ID":"')[1].split('"')[0]
+        rollout = resp.text.split('rollout_hash":"')[1].split('"')[0]
+        
+        csrf = session.cookies.get_dict().get('csrftoken')
+        
+        session.headers.update({
+            'authority': 'www.instagram.com',
+            'accept': '*/*',
+            'accept-language': 'en-US,en;q=0.9',
+            'content-type': 'application/x-www-form-urlencoded',
+            'origin': 'https://www.instagram.com',
+            'referer': 'https://www.instagram.com/accounts/emailsignup/',
+            'x-csrftoken': str(csrf),
+            'x-ig-app-id': str(appid),
+            'x-instagram-ajax': str(rollout),
+            'x-web-device-id': session.cookies.get_dict().get('ig_did'),
+        })
+        return session
+    except Exception:
+        return None
+
+def check_username_availability(session, username):
+    try:
+        r = session.post('https://www.instagram.com/api/v1/users/check_username/', data={'username': username}, timeout=30)
+        return r.json().get('available', False)
+    except:
+        return False
+
+def get_random_photo():
+    """Download random high-quality photo."""
+    try:
+        url = f"https://picsum.photos/1080/1080?random={random.randint(1, 1000)}"
+        res = requests.get(url, timeout=20)
+        return res.content if res.status_code == 200 else None
+    except:
+        return None
+
+def upload_pfp(session, photo_data):
+    try:
+        url = "https://www.instagram.com/api/v1/accounts/change_profile_picture/"
+        files = {'profile_pic': ('p.jpg', photo_data, 'image/jpeg')}
+        h = session.headers.copy()
+        h.pop('content-type', None)
+        r = session.post(url, headers=h, files=files, timeout=30)
+        return r.status_code == 200
+    except:
+        return False
+
+def upload_post(session, photo_data, caption=""):
+    try:
+        upload_id = str(int(time.time() * 1000))
+        # Step 1: Upload
+        up_url = "https://www.instagram.com/api/v1/web/library/upload_photo/"
+        h = session.headers.copy()
+        h.pop('content-type', None)
+        r1 = session.post(up_url, headers=h, data={'upload_id': upload_id, 'media_type': '1'}, files={'photo': ('f.jpg', photo_data, 'image/jpeg')}, timeout=30)
+        
+        if r1.status_code == 200:
+            # Step 2: Configure
+            conf_url = "https://www.instagram.com/api/v1/media/configure/"
+            r2 = session.post(conf_url, data={'upload_id': upload_id, 'caption': caption}, timeout=30)
+            return r2.status_code == 200
+    except:
+        return False
+
+# --- TELEGRAM BOT HANDLERS ---
+
+@bot.message_handler(commands=['start'])
+def start(message):
+    bot.send_message(message.chat.id, "🚀 *Instagram Creator v6.0*\nAuto PFP + 2 Posts included.\n\nUse /create to begin.", parse_mode='Markdown')
+
+@bot.message_handler(commands=['create'])
+def start_create(message):
+    bot.send_message(message.chat.id, "📧 *Step 1:* Enter Email address:")
+    bot.register_next_step_handler(message, handle_email)
+
+def handle_email(message):
+    email = message.text.strip()
+    chat_id = message.chat.id
+    
+    bot.send_message(chat_id, "⏳ Initializing secure session...")
+    session = get_initial_session()
+    
+    if not session:
+        bot.send_message(chat_id, "❌ Session error. Try /create again.")
+        return
+
+    bot.send_message(chat_id, "📩 Sending verification code...")
+    try:
+        mid = session.cookies.get_dict().get('mid')
+        r = session.post('https://www.instagram.com/api/v1/accounts/send_verify_email/', 
+                        data={'device_id': mid, 'email': email}, timeout=30)
+        
+        if 'email_sent":true' in r.text:
+            user_states[chat_id] = {'session': session, 'email': email}
+            bot.send_message(chat_id, f"✅ Code sent to {email}\n\n🔢 *Step 2:* Enter the 6-digit OTP:")
+            bot.register_next_step_handler(message, handle_otp)
+        else:
+            bot.send_message(chat_id, f"❌ SMS failed: {r.text[:100]}")
+    except Exception as e:
+        bot.send_message(chat_id, f"❌ Error: {str(e)}")
+
+def handle_otp(message):
+    chat_id = message.chat.id
+    otp = message.text.strip()
+    
+    if chat_id not in user_states:
+        bot.send_message(chat_id, "Session expired. Use /create")
+        return
+
+    state = user_states[chat_id]
+    session = state['session']
+    
+    bot.send_message(chat_id, "🔄 Verifying code...")
+    try:
+        mid = session.cookies.get_dict().get('mid')
+        r = session.post('https://www.instagram.com/api/v1/accounts/check_confirmation_code/', 
+                        data={'code': otp, 'device_id': mid, 'email': state['email']}, timeout=30)
+        
+        if 'status":"ok' in r.text:
+            signup_code = r.json().get('signup_code')
+            bot.send_message(chat_id, "✅ Code accepted! Creating account...")
+            finish_creation(chat_id, signup_code)
+        else:
+            bot.send_message(chat_id, "❌ Invalid code. Try /create again.")
+    except Exception as e:
+        bot.send_message(chat_id, f"❌ OTP Error: {str(e)}")
+
+def finish_creation(chat_id, signup_code):
+    state = user_states[chat_id]
+    session = state['session']
+    email = state['email']
+    
+    try:
+        # Generate Details
+        fname = names.get_first_name()
+        uname = generate_indian_username()
+        while not check_username_availability(session, uname):
+            uname = generate_indian_username()
+        
+        password = fname + "@" + str(random.randint(111, 999))
+        
+        data = {
+            'enc_password': f'#PWD_INSTAGRAM_BROWSER:0:{round(time.time())}:{password}',
+            'email': email,
+            'username': uname,
+            'first_name': fname,
+            'month': random.randint(1, 12),
+            'day': random.randint(1, 28),
+            'year': random.randint(1992, 2002),
+            'client_id': session.cookies.get_dict().get('mid'),
+            'seamless_login_enabled': '1',
+            'tos_version': 'row',
+            'force_sign_up_code': signup_code,
+        }
+
+        r = session.post('https://www.instagram.com/api/v1/web/accounts/web_create_ajax/', data=data, timeout=45)
+        
+        if '"account_created":true' in r.text:
+            bot.send_message(chat_id, "🎉 Account Created! Starting auto-uploads...")
+            
+            # --- AUTO MEDIA ---
+            # 1. Profile Picture
+            photo = get_random_photo()
+            if photo and upload_pfp(session, photo):
+                bot.send_message(chat_id, "✅ Profile picture updated.")
+            
+            # 2. Two Posts
+            for i in range(1, 3):
+                post_p = get_random_photo()
+                if post_p and upload_post(session, post_p, caption=f"Post {i} #vibes"):
+                    bot.send_message(chat_id, f"✅ Post {i}/2 uploaded.")
+                time.sleep(2)
+
+            # --- FINAL OUTPUT ---
+            cookies = session.cookies.get_dict()
+            cookie_str = f"mid={cookies.get('mid')}; ig_did={cookies.get('ig_did')}; csrftoken={cookies.get('csrftoken')}; sessionid={cookies.get('sessionid')}; ds_user_id={cookies.get('ds_user_id')}"
+            
+            res_msg = (
+                f"✅ *SUCCESS!*\n\n"
+                f"👤 *User:* `{uname}`\n"
+                f"🔑 *Pass:* `{password}`\n"
+                f"📧 *Email:* `{email}`\n\n"
+                f"🍪 *Cookies:* `{cookie_str}`"
+            )
+            bot.send_message(chat_id, res_msg, parse_mode='Markdown')
+        else:
+            bot.send_message(chat_id, f"❌ Failed: {r.text[:200]}")
+            
+    except Exception as e:
+        bot.send_message(chat_id, f"❌ Final Step Error: {str(e)}")
+
+if __name__ == "__main__":
+    print("Bot is running...")
+    bot.infinity_polling() 
